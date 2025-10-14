@@ -16,7 +16,7 @@
 
 🔭 **Currently Working On:** [ai-threat-detector](https://github.com/yourusername/ai-threat-detector)
 
-🌱 **Currently Learning:** LLM Engineering | Cloud Security & Privacy | Data Security and Privacy
+🌱 **Currently Learning:** LLM Engineering | Cloud Security & Privacy | Data Security and Privacy | Computer & Network Security
 
 💬 **Ask Me About:** AI/ML, Incident Response & Reporting
 
