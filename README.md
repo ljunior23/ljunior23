@@ -14,7 +14,7 @@
 
 ## 🚀 About Me
 
-🔭 **Currently Working On:** [ai-threat-detector](https://github.com/yourusername/ai-threat-detector)
+🔭 **Currently Working On:** [ai-threat-detector](https://github.com/ljunior23/network-intrusion-detection.git)
 
 🌱 **Currently Learning:** LLM Engineering | Cloud Security & Privacy | Data Security and Privacy | Computer & Network Security
 
@@ -73,7 +73,7 @@
 
 ## 💼 Featured Projects
 
-### 🤖 [AI Threat Detector](https://github.com/yourusername/ai-threat-detector)
+### 🤖 [AI Threat Detector](https://github.com/ljunior23/network-intrusion-detection.git)
 Advanced threat detection system leveraging machine learning and AI technologies for real-time security analysis.
 
 ---
