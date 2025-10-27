@@ -14,7 +14,7 @@
 
 ## 🚀 About Me
 
-🔭 **Currently Working On:** [ai-threat-detector](https://ai-threat-detector.streamlit.app/)
+🔭 **Currently Working On:** [real-time fraud detection system](https://github.com/ljunior23/Real-Time-Fraud-Detection-System.git)
 
 🌱 **Currently Learning:** LLM Engineering | Cloud Security & Privacy | Data Security and Privacy | Computer & Network Security
 
