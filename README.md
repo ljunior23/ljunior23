@@ -76,6 +76,8 @@
 ### 🤖 [AI Threat Detector](https://ai-threat-detector.streamlit.app/)
 Advanced threat detection system leveraging machine learning and AI technologies for real-time security analysis.
 
+## 🤖[LLM-Powered Document Q&A System](https://ragwithlangchain.streamlit.app/)
+Retrieval-Augmented Generation system that lets you upload PDF documents and ask questions powered by GPT models
 ---
 
 <div align="center">
