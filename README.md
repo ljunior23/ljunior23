@@ -14,7 +14,7 @@
 
 ## 🚀 About Me
 
-🔭 **Currently Working On:** [zero-shot-braille-to-speech-glasses](https://github.com/ljunior23/Zero-Shot-Braille-to-Speech-Glasses.git)
+🔭 **Currently Working On:** [mini-annapurna](https://github.com/ljunior23/mini-annapurna)
 
 🌱 **Currently Learning:** LLM Engineering | Cloud Security & Privacy | Data Security and Privacy | Computer & Network Security
 
@@ -73,14 +73,17 @@
 
 ## 💼 Featured Projects
 
+### 🤖 [zero-shot-braille-to-speech-glasses](https://github.com/ljunior23/Zero-Shot-Braille-to-Speech-Glasses.git)
+Zero-shot Braille reading system using self-supervised learning
+
+### 🤖 [real-time fraud detection system](https://github.com/ljunior23/Real-Time-Fraud-Detection-System.git)
+Production-ready fraud detection system using deep learning, Apache Kafka streaming, and Docker containerization.
+
 ### 🤖 [AI Threat Detector](https://ai-threat-detector.streamlit.app/)
 Advanced threat detection system leveraging machine learning and AI technologies for real-time security analysis.
 
 ### 🤖[LLM-Powered Document Q&A System](https://ragwithlangchain.streamlit.app/)
 Retrieval-Augmented Generation system that lets you upload PDF documents and ask questions powered by GPT models
-
-### 🤖 [real-time fraud detection system](https://github.com/ljunior23/Real-Time-Fraud-Detection-System.git)
-Production-ready fraud detection system using deep learning, Apache Kafka streaming, and Docker containerization.
 
 ---
 
