@@ -16,7 +16,7 @@
 
 🔭 **Currently Working On:** [Lightweight-RLHF-Pipeline-for-LLM-Alignment ]([https://github.com/ljunior23/mini-annapurna](https://github.com/ljunior23/Lightweight-RLHF-Pipeline-for-LLM-Alignment-)
 
-🌱 **Currently Learning:** LLM Engineering | Cloud Security & Privacy | Data Security and Privacy | Computer & Network Security
+🌱 **Currently Learning:** LLM Engineering | Trustworthy-AI | Agents
 
 💬 **Ask Me About:** AI/ML, Incident Response & Reporting
 
