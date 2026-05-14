@@ -3,7 +3,7 @@
 <div align="center">
   
 ### 🎓 Master's Student in Computer & Information Science
-**University of Michigan-Dearborn**
+**University of Michigan**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/george-acheampong-604a821b5)
 [![Email](https://img.shields.io/badge/Email-kwaleon%40umich.edu-red?style=for-the-badge&logo=gmail)](mailto:kwaleon@umich.edu)
